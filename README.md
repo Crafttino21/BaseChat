@@ -28,12 +28,12 @@ This is a Hobby/Learning Project for my Self so please dont await a Masterpiece 
 * Pip (In PATH)
  
 ### Linux:
-`sudo apt update`  
-`sudo apt-get install git` <== Skip this if you have it already  
-`git clone https://github.com/Crafttino21/BaseChat.git`
-`cd BaseChat`
-`pip3 install -r requirments.txt`
-`sudo python3 server.py` or `sudo python3 client.py` based on your usage.
+* `sudo apt update`  
+* `sudo apt-get install git` <== Skip this if you have it already  
+* `git clone https://github.com/Crafttino21/BaseChat.git`
+* `cd BaseChat`
+* `pip3 install -r requirments.txt`
+* `sudo python3 server.py` or `sudo python3 client.py` based on your usage.
    
 ### Windows 
 * Download and extract the `.zip` of main brach [here](https://github.com/Crafttino21/BaseChat/archive/refs/heads/main.zip)  
